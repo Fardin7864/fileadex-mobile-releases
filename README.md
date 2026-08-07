@@ -4,7 +4,7 @@ This repository contains official signed Android releases of the FileadeX mobile
 
 ## Download
 
-[Download the latest FileadeX APK](https://github.com/Fardin7864/fileadex-mobile-releases/releases/latest/download/fileadex.apk)
+[Download FileadeX Android v1.0.0](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.0/fileadex-android-v1.0.0.apk)
 
 Android may ask you to allow installation from your browser or file manager. Future releases must be signed with the same FileadeX release certificate so Android can install them as updates.
 
