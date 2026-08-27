@@ -1,13 +1,14 @@
 {
-  "version": "1.0.0",
-  "versionCode": 1,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.0/fileadex-android-v1.0.0.apk",
+  "version": "1.0.2",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.2/fileadeX-1.0.2-android.apk",
   "required": false,
   "notes": [
-    "Introduces the native FileadeX authentication and onboarding flow.",
-    "Adds Home, Smart CRM, notifications, profile controls, and live data sync.",
-    "Adds business-card scanning and Android in-app release notifications."
+    "Updates authentication, profile, and application navigation flows.",
+    "Updates Smart CRM, opportunities, appointments, and calendar workflows.",
+    "Improves card scanning, OCR review, lead verification, and lead saving.",
+    "Includes the latest production API compatibility and reliability fixes."
   ],
-  "publishedAt": "2026-08-08T00:55:00+06:00",
-  "sha256": "ec0b4efcb96e807eb4f2844c4b9f282c5ee92b3325fc891412be73883b66e2f3"
+  "publishedAt": "2026-08-28T04:20:00+06:00",
+  "sha256": "4ba12271ca98a130ba6585009b7ba786c5f0cb08331df9eae59800de6687a35e"
 }
