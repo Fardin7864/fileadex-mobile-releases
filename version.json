@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
-  "versionCode": 3,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.2/fileadeX-1.0.2-android.apk",
+  "version": "1.0.4",
+  "versionCode": 10,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.4/fileadeX-1.0.4-android.apk",
   "required": false,
   "notes": [
-    "Updates authentication, profile, and application navigation flows.",
-    "Updates Smart CRM, opportunities, appointments, and calendar workflows.",
-    "Improves card scanning, OCR review, lead verification, and lead saving.",
-    "Includes the latest production API compatibility and reliability fixes."
+    "Biometric verification only on a fresh app launch, not app switching or permission dialogs.",
+    "Direct microphone dictation and improved AI chat keyboard positioning.",
+    "Faster CRM detail loading and consistent mobile headings and card text.",
+    "In-app Android update downloads with integrity verification and system installation approval."
   ],
-  "publishedAt": "2026-08-28T04:20:00+06:00",
-  "sha256": "4ba12271ca98a130ba6585009b7ba786c5f0cb08331df9eae59800de6687a35e"
+  "publishedAt": "2026-10-14",
+  "sha256": "634654d7b9d8e064fd9fca845327b9c6fb0c2edeead3cc8adf4a7546699e2c52"
 }
