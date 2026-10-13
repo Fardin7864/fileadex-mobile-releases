@@ -1,9 +1,10 @@
 {
   "version": "1.0.4",
-  "versionCode": 11,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.4-build11/fileadeX-1.0.4-build11-android.apk",
+  "versionCode": 12,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.4-build12/fileadeX-1.0.4-build12-android.apk",
   "required": false,
   "notes": [
+    "Recover unreadable Android secure-storage values that block sign-in; affected devices require fresh login.",
     "Compact Calendar add button, Create Activity drawer capped at 90%, and reduced field padding.",
     "Biometric verification only on a fresh app launch, not app switching or permission dialogs.",
     "Direct microphone dictation and improved AI chat keyboard positioning.",
@@ -11,5 +12,5 @@
     "In-app Android update downloads with integrity verification and system installation approval."
   ],
   "publishedAt": "2026-10-14",
-  "sha256": "76555fa06411e311916e5fbc47a631085c00b74b2eb39d178505a24bd847aba4"
+  "sha256": "ee997a7a41a9729a6961927ad589fdfbc7f44bf557b60429f91c3e81219c9796"
 }
