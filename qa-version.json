@@ -1,15 +1,15 @@
 {
-  "version": "1.0.5",
-  "versionCode": 23,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.5-qa-build23/fileadeX-1.0.5-build23-android-QA.apk",
+  "version": "1.0.6",
+  "versionCode": 24,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.6-qa-build24/fileadeX-1.0.6-build24-android-QA.apk",
   "required": false,
   "notes": [
-    "fiX artwork is now the app launcher icon.",
-    "Fixed scanner frame starts horizontal; use the top-right button to switch to vertical.",
-    "Card detection no longer rotates or resizes the guide; green alignment and blur feedback retained.",
-    "Includes recent CRM, business-profile, notification, keyboard, authentication and opportunity-layout updates.",
-    "Separate QA-channel update signed with the existing QA certificate."
+    "Profile-photo preview in the digital-card edit drawer.",
+    "Normalized JPEG photos and native single-image uploads; text-only profile saves use JSON.",
+    "Bounded retries for interrupted reads, without blindly repeating writes.",
+    "Successful uploads and saves are no longer reported as failed if the follow-up refresh fails.",
+    "Web-style scan progress bar; fiX icon and manually controlled scanner guide retained."
   ],
   "publishedAt": "2026-10-14",
-  "sha256": "78b0080b8416c11da4e7ad3de6d2d51fe2ad163a72f804e2dfb04b38ea90b4da"
+  "sha256": "5f84eb5699f611c3346c22c33de4f5d8c798c380ff1a62f8886bcde49704083d"
 }
