@@ -1,17 +1,15 @@
 {
-  "version": "1.0.4",
-  "versionCode": 13,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.4-build13/fileadeX-1.0.4-build13-android.apk",
+  "version": "1.0.5",
+  "versionCode": 23,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.5-build23/fileadeX-1.0.5-build23-android.apk",
   "required": false,
   "notes": [
-    "Compact profile menu with consistent text, smaller icons, rows, and buttons.",
-    "Recover unreadable Android secure-storage values that block sign-in; affected devices require fresh login.",
-    "Compact Calendar add button, Create Activity drawer capped at 90%, and reduced field padding.",
-    "Biometric verification only on a fresh app launch, not app switching or permission dialogs.",
-    "Direct microphone dictation and improved AI chat keyboard positioning.",
-    "Faster CRM detail loading and consistent mobile headings and card text.",
-    "In-app Android update downloads with integrity verification and system installation approval."
+    "fiX artwork is now the app launcher icon.",
+    "Fixed scanner frame starts horizontal; use the top-right button to switch to vertical.",
+    "Card detection no longer rotates or resizes the guide; green alignment and blur feedback retained.",
+    "Includes recent CRM, business-profile, notification, keyboard, authentication and opportunity-layout updates.",
+    "Signed production update with verified download integrity and Android installation approval."
   ],
   "publishedAt": "2026-10-14",
-  "sha256": "b9cdd1714e82df9ef8d6c0f5057b03c05c1e893c2e3795f3157c4835de0d6d59"
+  "sha256": "04b6f3d9f7008bb37f7a9d68d0186f5b580f68a965e5455bda2aebb325ecb4c0"
 }
