@@ -1,15 +1,15 @@
 {
-  "version": "1.0.7",
-  "versionCode": 25,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.7-build25/fileadeX-1.0.7-build25-android.apk",
+  "version": "1.0.8",
+  "versionCode": 26,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.8-build26/fileadeX-1.0.8-build26-android.apk",
   "required": false,
   "notes": [
-    "Import CSV / Excel files into Leads, Contacts and Accounts with column mapping and progress tracking.",
-    "Web-aligned FREE / PRO access and a mobile-sized upgrade popup.",
-    "Consistent access checks for email, SMS, verification, imports, integrations and route planning.",
-    "Clear supported-provider and Coming soon integration labels.",
-    "Previous photo-upload, profile-save, scanner and CRM fixes remain included."
+    "Import opens immediately, with clearer skipped-row results and compact actions.",
+    "Smart CRM counts refresh from server totals.",
+    "CRM suggestions open relevant AI Sales Manager conversations.",
+    "Email shortcuts open the in-app composer with recipient, connected From and linked CRM activity.",
+    "Inbox, Sent, Drafts and Failed email folders; existing FREE / PRO gates and fixes retained."
   ],
-  "publishedAt": "2026-10-14",
-  "sha256": "261aa8a3fc5027f499d47172d377b17e1b5962bc2709aff2b61bb9405212018e"
+  "publishedAt": "2026-10-15",
+  "sha256": "22d03a96af6a20891a59e929484f69a0d3ab0106e93a063ebdea850954f308bf"
 }
