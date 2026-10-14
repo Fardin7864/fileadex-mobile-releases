@@ -1,15 +1,15 @@
 {
-  "version": "1.0.6",
-  "versionCode": 24,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.6-qa-build24/fileadeX-1.0.6-build24-android-QA.apk",
+  "version": "1.0.7",
+  "versionCode": 25,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.7-qa-build25/fileadeX-1.0.7-build25-android-QA.apk",
   "required": false,
   "notes": [
-    "Profile-photo preview in the digital-card edit drawer.",
-    "Normalized JPEG photos and native single-image uploads; text-only profile saves use JSON.",
-    "Bounded retries for interrupted reads, without blindly repeating writes.",
-    "Successful uploads and saves are no longer reported as failed if the follow-up refresh fails.",
-    "Web-style scan progress bar; fiX icon and manually controlled scanner guide retained."
+    "Import CSV / Excel files into Leads, Contacts and Accounts with column mapping and progress tracking.",
+    "Web-aligned FREE / PRO access and a mobile-sized upgrade popup.",
+    "Consistent access checks for email, SMS, verification, imports, integrations and route planning.",
+    "Clear supported-provider and Coming soon integration labels.",
+    "Previous photo-upload, profile-save, scanner and CRM fixes remain included."
   ],
   "publishedAt": "2026-10-14",
-  "sha256": "5f84eb5699f611c3346c22c33de4f5d8c798c380ff1a62f8886bcde49704083d"
+  "sha256": "3086dcd88deb8ef617eecbbc2cbddb6af1e9e68d5f598426c9c4a5c1ba66896f"
 }
