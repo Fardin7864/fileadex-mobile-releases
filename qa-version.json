@@ -1,15 +1,15 @@
 {
-  "version": "1.0.8",
-  "versionCode": 26,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.8-qa-build26/fileadeX-1.0.8-build26-android-QA.apk",
+  "version": "1.0.9",
+  "versionCode": 27,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.9-qa-build27/fileadeX-1.0.9-build27-android-QA.apk",
   "required": false,
   "notes": [
-    "Import opens immediately, with clearer skipped-row results and compact actions.",
-    "Smart CRM counts refresh from server totals.",
-    "CRM suggestions open relevant AI Sales Manager conversations.",
-    "Email shortcuts open the in-app composer with recipient, connected From and linked CRM activity.",
-    "Inbox, Sent, Drafts and Failed email folders; existing FREE / PRO gates and fixes retained."
+    "Faster Android scanner preview pacing, with fixed card framing preserved.",
+    "Plan access is cached on sign-in and refreshed in the background.",
+    "Restricted features open the plan drawer directly; closing returns to the originating screen.",
+    "One root upgrade overlay avoids competing dialogs and blocked navigation.",
+    "Existing import, email, CRM and profile corrections retained."
   ],
   "publishedAt": "2026-10-15",
-  "sha256": "6dffcd6dea5c7adf8f89d19a697059a67e2847498279f8e404accd2ee88d8475"
+  "sha256": "4adf84cd41ffbc5df3a700e6a7463f928a3e3316f837de8f148938f29fea30fd"
 }
