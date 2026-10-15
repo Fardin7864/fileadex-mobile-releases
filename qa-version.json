@@ -1,15 +1,14 @@
 {
-  "version": "1.0.11",
-  "versionCode": 29,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.11-qa-build29/fileadeX-1.0.11-build29-android-QA.apk",
+  "version": "1.0.12",
+  "versionCode": 30,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.12-qa-build30/fileadeX-1.0.12-build30-android-QA.apk",
   "required": false,
   "notes": [
-    "Home empty states include Add buttons with creation drawers on Home.",
-    "Edit your monthly sales goal directly from the dashboard.",
-    "Card ordering supports logo adjustment and draggable logo/text placement.",
-    "Improved keyboard visibility, lead verification, notes, documents and meetings.",
-    "Includes the latest onboarding, scanning and profile corrections."
+    "Saved profile pictures now appear in Leads, Contacts and Accounts lists.",
+    "Cleaner billing page with a Current plan badge and paid-subscription management.",
+    "FREE-to-PRO checkout and business-profile journey completion corrected.",
+    "fiX supports voice-to-text drafting from the input microphone."
   ],
   "publishedAt": "2026-10-16",
-  "sha256": "1e010803051e2488f190c4577f606b07a733581d29a7fb74c72ee50084a4b06f"
+  "sha256": "0bea506820402379dd072d2abfea95cb543b5b2cd4eedabdf13276c3bcff4591"
 }
