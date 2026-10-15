@@ -1,14 +1,15 @@
 {
-  "version": "1.0.10",
-  "versionCode": 28,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.10-build28/fileadeX-1.0.10-build28-android.apk",
+  "version": "1.0.11",
+  "versionCode": 29,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.11-build29/fileadeX-1.0.11-build29-android.apk",
   "required": false,
   "notes": [
-    "CRM email opens a compose drawer on the current screen with the selected recipient.",
-    "CRM calls save an initiated activity and open call details on return from the dialer.",
-    "Add confirmed outcome, notes, optional duration and a call recording against the same record.",
-    "Existing plan, scanner, import, email and CRM fixes retained."
+    "Home empty states include Add buttons with creation drawers on Home.",
+    "Edit your monthly sales goal directly from the dashboard.",
+    "Card ordering supports logo adjustment and draggable logo/text placement.",
+    "Improved keyboard visibility, lead verification, notes, documents and meetings.",
+    "Includes the latest onboarding, scanning and profile corrections."
   ],
-  "publishedAt": "2026-10-15",
-  "sha256": "59f22e97c29c714755930465fe24638fea29a69d2df8421c56ee0ad87f22e096"
+  "publishedAt": "2026-10-16",
+  "sha256": "d2f716179bba97ff4ca44af3aeedbd2f91cd47285e132c2a9d3faa67a647ce79"
 }
