@@ -1,15 +1,15 @@
 {
-  "version": "1.0.13",
-  "versionCode": 31,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.13-qa-build31/fileadeX-1.0.13-build31-android-QA.apk",
+  "version": "1.0.14",
+  "versionCode": 32,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.14-qa-build32/fileadeX-1.0.14-build32-android-QA.apk",
   "required": false,
   "notes": [
-    "Business Profile links add https automatically; profile photos and logos can be removed.",
-    "Delivery address and tax checks run before continuing, with inline errors.",
-    "Faster card-order confirmation with non-blocking pending status.",
-    "Ordered cards retain job title, company and logo, support swiping, and lock accepted artwork.",
-    "Consistent brand-blue system status area across screens and drawers."
+    "Membership cancellation and billing renewal dates corrected.",
+    "Billing refresh failures keep previously loaded details with a clear retry action.",
+    "Upload profile pictures or logos when creating or editing leads, contacts and accounts.",
+    "Gmail/Outlook connections and saved CRM actions generate in-app notifications.",
+    "Notification feed refresh, unread indicators and timestamps corrected."
   ],
   "publishedAt": "2026-10-16",
-  "sha256": "69e30e7c2041f49045847b5e131346319fabc50a27f69a0a15db7bd11c81dad7"
+  "sha256": "b7e7b3588d4bde16f8918309f4de4a94a241e33412358d16f2fe838d23b67ec5"
 }
