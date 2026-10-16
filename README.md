@@ -4,7 +4,7 @@ This public repository contains Android APK releases and update manifests, not a
 
 ## Download
 
-[Download fileadeX Android v1.0.16 build 34](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.16-build34/fileadeX-1.0.16-build34-android.apk)
+[Download fileadeX Android v1.0.17 build 35](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.17-build35/fileadeX-1.0.17-build35-android.apk)
 
 Production releases use the same certificate as v1.0.2. Android may ask you to allow installation from your browser, file manager, or fileadeX. Installation always requires your approval.
 
@@ -12,7 +12,7 @@ The app checks `version.json` on launch and periodically on resume. From v1.0.4,
 
 ## QA builds
 
-[Download QA v1.0.16 build 34](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.16-qa-build34/fileadeX-1.0.16-build34-android-QA.apk)
+[Download QA v1.0.17 build 35](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.17-qa-build35/fileadeX-1.0.17-build35-android-QA.apk)
 
 Recent 1.0.3 QA APKs use a different signing certificate. Install this QA build manually once to keep that certificate and enter the separate `qa-version.json` update channel. Do not install production APKs over QA APKs, or vice versa. Switching signing certificates cannot preserve an installation through an ordinary Android update.
 

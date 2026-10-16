@@ -1,15 +1,14 @@
 {
-  "version": "1.0.16",
-  "versionCode": 34,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.16-build34/fileadeX-1.0.16-build34-android.apk",
+  "version": "1.0.17",
+  "versionCode": 35,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.17-build35/fileadeX-1.0.17-build35-android.apk",
   "required": false,
   "notes": [
-    "Scanner now uses a native camera preview instead of CPU-rendered frame bitmaps.",
-    "Lightweight card detection runs independently on smaller camera frames.",
-    "JPEG saving no longer shares the card-analysis worker.",
-    "Visible-card capture alignment, startup checks and camera lifecycle guards retained.",
-    "Includes all CRM, calendar and setup fixes from build 33."
+    "Fixes the black scanner preview reported after build 34.",
+    "Compatible native texture preview with explicit CameraX child layout.",
+    "Live preview, manual capture and camera reopening verified on a connected Android phone.",
+    "Retains lightweight card detection and independent JPEG saving."
   ],
   "publishedAt": "2026-10-16",
-  "sha256": "46aa54e174f268c3f47b3d10bd7c2a1eb7488c9e91b88bf4216b55ee1d0fdb7c"
+  "sha256": "a2201cada07f7c71b0da1b1342e011b94cfe11c7cc8598d2f2a47ff0ebc86eb2"
 }
