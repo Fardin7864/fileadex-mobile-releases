@@ -1,13 +1,15 @@
 {
-  "version": "1.0.18",
-  "versionCode": 36,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.18-build36/fileadeX-1.0.18-build36-android.apk",
+  "version": "1.0.20",
+  "versionCode": 38,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.20-build38/fileadeX-1.0.20-build38-android.apk",
   "required": false,
   "notes": [
-    "Today's Route action now says Optimize Route.",
-    "The saved route status now says Optimized.",
-    "Includes the camera-preview hotfix and earlier corrections."
+    "Improved card extraction and review with AI/image cross-checks.",
+    "Updated fiX onboarding and Sales Manager handoff.",
+    "New illustrated Add Contact, Lead and Account drawers.",
+    "Email campaign recovery, review, progress and retry improvements.",
+    "CRM detail photos, record-quality colors and converted-record navigation."
   ],
-  "publishedAt": "2026-10-16",
-  "sha256": "5c1cd4f4bacad4e3918aa6870a3784c9929d399cf76c407e39694b31222615f7"
+  "publishedAt": "2026-10-17",
+  "sha256": "9c2e8841d095d59831b0e9817cceb60ef43ede2112990136f5d2f0b5003493c2"
 }
