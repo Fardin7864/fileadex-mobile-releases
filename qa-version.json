@@ -1,15 +1,13 @@
 {
-  "version": "1.0.20",
-  "versionCode": 38,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.20-qa-build38/fileadeX-1.0.20-build38-android-QA.apk",
+  "version": "1.0.21",
+  "versionCode": 39,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.21-qa-build39/fileadeX-1.0.21-build39-android-QA.apk",
   "required": false,
   "notes": [
-    "Improved card extraction and review with AI/image cross-checks.",
-    "Updated fiX onboarding and Sales Manager handoff.",
-    "New illustrated Add Contact, Lead and Account drawers.",
-    "Email campaign recovery, review, progress and retry improvements.",
-    "CRM detail photos, record-quality colors and converted-record navigation."
+    "AI next-step suggestions for verified Lead, Contact and Account pages.",
+    "Review and approve suggested CRM changes before saving.",
+    "Includes the latest fiX onboarding, scanning, campaign and CRM updates."
   ],
   "publishedAt": "2026-10-17",
-  "sha256": "80dd58c419d9f2611a983ed4d6498aa7c827c733d1c50478944ba6dd2be994ac"
+  "sha256": "0e1bbb4e8b29a4d0ddf46091b8a2776e8dba64c47b35278e8a8fafadd3c35ba2"
 }
