@@ -1,15 +1,15 @@
 {
-  "version": "1.0.14",
-  "versionCode": 32,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.14-build32/fileadeX-1.0.14-build32-android.apk",
+  "version": "1.0.15",
+  "versionCode": 33,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.15-build33/fileadeX-1.0.15-build33-android.apk",
   "required": false,
   "notes": [
-    "Membership cancellation and billing renewal dates corrected.",
-    "Billing refresh failures keep previously loaded details with a clear retry action.",
-    "Upload profile pictures or logos when creating or editing leads, contacts and accounts.",
-    "Gmail/Outlook connections and saved CRM actions generate in-app notifications.",
-    "Notification feed refresh, unread indicators and timestamps corrected."
+    "Empty CRM lists show an illustration and compact Add action.",
+    "Integrations display the supplied provider logos.",
+    "Connected calendars load external events and show five recent events.",
+    "Connected empty calendars offer Add events instead of another Connect prompt.",
+    "Setup completion celebration no longer reappears for already-completed setup."
   ],
   "publishedAt": "2026-10-16",
-  "sha256": "277da9e95a4845b362cfc02124e2b0325c192b5600bfe95f312392018c79be67"
+  "sha256": "2aef6152c9d34ca0bdcf97f43fa8ade1f787ffadc37d7b345c6c1b2b6fbb613c"
 }
