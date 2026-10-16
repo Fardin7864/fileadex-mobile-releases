@@ -4,7 +4,7 @@ This public repository contains Android APK releases and update manifests, not a
 
 ## Download
 
-[Download fileadeX Android v1.0.17 build 35](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.17-build35/fileadeX-1.0.17-build35-android.apk)
+[Download fileadeX Android v1.0.18 build 36](https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.18-build36/fileadeX-1.0.18-build36-android.apk)
 
 Production releases use the same certificate as v1.0.2. Android may ask you to allow installation from your browser, file manager, or fileadeX. Installation always requires your approval.
 

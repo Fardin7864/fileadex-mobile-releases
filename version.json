@@ -1,14 +1,13 @@
 {
-  "version": "1.0.17",
-  "versionCode": 35,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.17-build35/fileadeX-1.0.17-build35-android.apk",
+  "version": "1.0.18",
+  "versionCode": 36,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.18-build36/fileadeX-1.0.18-build36-android.apk",
   "required": false,
   "notes": [
-    "Fixes the black scanner preview reported after build 34.",
-    "Compatible native texture preview with explicit CameraX child layout.",
-    "Live preview, manual capture and camera reopening verified on a connected Android phone.",
-    "Retains lightweight card detection and independent JPEG saving."
+    "Today's Route action now says Optimize Route.",
+    "The saved route status now says Optimized.",
+    "Includes the camera-preview hotfix and earlier corrections."
   ],
   "publishedAt": "2026-10-16",
-  "sha256": "a2201cada07f7c71b0da1b1342e011b94cfe11c7cc8598d2f2a47ff0ebc86eb2"
+  "sha256": "5c1cd4f4bacad4e3918aa6870a3784c9929d399cf76c407e39694b31222615f7"
 }
