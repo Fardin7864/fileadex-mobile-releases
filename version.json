@@ -1,15 +1,15 @@
 {
-  "version": "1.0.15",
-  "versionCode": 33,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.15-build33/fileadeX-1.0.15-build33-android.apk",
+  "version": "1.0.16",
+  "versionCode": 34,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.16-build34/fileadeX-1.0.16-build34-android.apk",
   "required": false,
   "notes": [
-    "Empty CRM lists show an illustration and compact Add action.",
-    "Integrations display the supplied provider logos.",
-    "Connected calendars load external events and show five recent events.",
-    "Connected empty calendars offer Add events instead of another Connect prompt.",
-    "Setup completion celebration no longer reappears for already-completed setup."
+    "Scanner now uses a native camera preview instead of CPU-rendered frame bitmaps.",
+    "Lightweight card detection runs independently on smaller camera frames.",
+    "JPEG saving no longer shares the card-analysis worker.",
+    "Visible-card capture alignment, startup checks and camera lifecycle guards retained.",
+    "Includes all CRM, calendar and setup fixes from build 33."
   ],
   "publishedAt": "2026-10-16",
-  "sha256": "2aef6152c9d34ca0bdcf97f43fa8ade1f787ffadc37d7b345c6c1b2b6fbb613c"
+  "sha256": "46aa54e174f268c3f47b3d10bd7c2a1eb7488c9e91b88bf4216b55ee1d0fdb7c"
 }
