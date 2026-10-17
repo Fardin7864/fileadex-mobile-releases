@@ -1,13 +1,13 @@
 {
-  "version": "1.0.21",
-  "versionCode": 39,
-  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.21-build39/fileadeX-1.0.21-build39-android.apk",
+  "version": "1.0.25",
+  "versionCode": 43,
+  "apkUrl": "https://github.com/Fardin7864/fileadex-mobile-releases/releases/download/v1.0.25-build43/fileadeX-1.0.25-build43-android.apk",
   "required": false,
   "notes": [
-    "AI next-step suggestions for verified Lead, Contact and Account pages.",
-    "Review and approve suggested CRM changes before saving.",
-    "Includes the latest fiX onboarding, scanning, campaign and CRM updates."
+    "AI assistant work can continue after disconnecting and reconnect when you reopen the app.",
+    "Improved live activity panels in fiX and AI Sales Manager.",
+    "Includes the latest CRM, scanning and workflow updates."
   ],
   "publishedAt": "2026-10-17",
-  "sha256": "8e24d45bf3897b45240bbacfa7d5f473ef6845e549ceae47b3fe743ffe28af0d"
+  "sha256": "c0120fbba69b59eceb79cb96aebbd8c538f06033391a701528f6faf6024fb436"
 }
